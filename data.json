@@ -32,5 +32,23 @@
 			"gravity",
 			"game"
 		]
+	},
+	{
+		"titolo" : "Other Worlds",
+		"descrizione" : "Other Worlds è una visualizzazione dati interattiva di 11 esopianeti confermati, costruita a partire dai dati pubblici del NASA Exoplanet Archive.",
+		"immagine" : "otherworlds.jpg",
+		"url" : "https://djordjaa.github.io/Other_Worlds/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Djordja Krsteva",
+		"tags" : [
+			"exoplanets",
+			"NASA70",
+			"educational"
+		]
 	}
+	
 ]
