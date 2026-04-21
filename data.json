@@ -33,38 +33,60 @@
 			"game"
 		]
 	},
-	{
-		"titolo" : "hubble space telescope",
-		"descrizione" : "35 anni di fotografie di hubble space telescope, l'occhio piu potente che abbiamo nello spazio, che ci ha permesso di scoprire nuovi pianeti, galassie e buchi neri. Un archivio di immagini e video per far scoprire ai bambini la bellezza dello spazio e della scienza.",
-		"immagine" : "hubble.png",
-		"url" : "https://laura-pantani.github.io/NASA70/p1/",
-		"autore" : "Laura Pantani",
-		"data" : {
-			"giorno" : 21,
-			"mese" : 4,
-			"anno" : 2026
-		},	
-		"tags" : [
-			"kids",
-			"space",
-			"archive"
-		]
-	},
+	
 	{
 		"titolo" : "Other Worlds",
 		"descrizione" : "Other Worlds è una visualizzazione dati interattiva di 11 esopianeti confermati, costruita a partire dai dati pubblici del NASA Exoplanet Archive.",
 		"immagine" : "otherworlds.jpg",
 		"url" : "https://djordjaa.github.io/Other_Worlds/",
+
 		"data" : {
 			"giorno" : 21,
 			"mese" : 4,
 			"anno" : 2026
+
 		},	
 		"autore" : "Djordja Krsteva",
 		"tags" : [
 			"exoplanets",
 			"NASA70",
 			"educational"
+		]
+	},
+
+	{
+		"titolo" : "MoonPrint",
+		"descrizione" : "Il progetto non si limita a essere un semplice gioco. Una volta superate tutte le prove, l'esperienza culmina con un viaggio visivo verso la Luna e si trasforma in un vero e proprio archivio storico. I giocatori vengono ricompensati con un'interfaccia che permette di esplorare i video originali e i filmati di repertorio della NASA per ciascuna delle strutture affrontate (dall'esperimento originale di David Scott sulla Luna, fino alle riprese reali della Centrifuga e della piscina N.B.L.).",
+		"immagine" : "moonprint.jpg",
+		"url" : "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Sofia Ribeiro Marques",
+		"tags" : [
+			"moon",
+			"comparison",
+			"newspaper"
+		]
+	},
+
+	{
+		"titolo" : "Eyes on earth",
+		"descrizione" : "Attraverso la navigazione tra cinque satelliti chiave, scoprirai come la conquista dello spazio sia diventata lo strumento fondamentale per comprendere i cambiamenti globali. Inizia il tuo viaggio per vedere la Terra come non l'hai mai vista prima.",
+		"immagine" : "carla.jpg",
+		"url" : "https://carladegennaro.github.io/interaction_design/progetto_1.2/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Carla De Gennaro",
+		"tags" : [
+			"climate change",
+			"satellites",
+			"earth"
 		]
 	},
 	{
