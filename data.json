@@ -38,6 +38,10 @@
 		"descrizione" : "35 anni di fotografie di hubble space telescope, l'occhio piu potente che abbiamo nello spazio, che ci ha permesso di scoprire nuovi pianeti, galassie e buchi neri. Un archivio di immagini e video per far scoprire ai bambini la bellezza dello spazio e della scienza.",
 		"immagine" : "hubble.png",
 		"url" : "https://laura-pantani.github.io/NASA70/p1/",
+		"titolo" : "Other Worlds",
+		"descrizione" : "Other Worlds è una visualizzazione dati interattiva di 11 esopianeti confermati, costruita a partire dai dati pubblici del NASA Exoplanet Archive.",
+		"immagine" : "otherworlds.jpg",
+		"url" : "https://djordjaa.github.io/Other_Worlds/",
 		"data" : {
 			"giorno" : 21,
 			"mese" : 4,
@@ -48,6 +52,12 @@
 			"kids",
 			"space",
 			"archive"
+		"autore" : "Djordja Krsteva",
+		"tags" : [
+			"exoplanets",
+			"NASA70",
+			"educational"
 		]
 	}
+	
 ]
