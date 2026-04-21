@@ -33,22 +33,25 @@
 			"game"
 		]
 	},
-		{
-		"titolo" : "MOONPRINT",
-		"descrizione" : "Il progetto non si limita a essere un semplice gioco. Una volta superate tutte le prove, l'esperienza culmina con un viaggio visivo verso la Luna e si trasforma in un vero e proprio archivio storico. I giocatori vengono ricompensati con un'interfaccia che permette di esplorare i video originali e i filmati di repertorio della NASA per ciascuna delle strutture affrontate (dall'esperimento originale di David Scott sulla Luna, fino alle riprese reali della Centrifuga e della piscina N.B.L.).",
-		"immagine" : "moonprint.jpg",
-		"url" : "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
+
+	{
+		"titolo" : "Other Worlds",
+		"descrizione" : "Other Worlds è una visualizzazione dati interattiva di 11 esopianeti confermati, costruita a partire dai dati pubblici del NASA Exoplanet Archive.",
+		"immagine" : "otherworlds.jpg",
+		"url" : "https://djordjaa.github.io/Other_Worlds/",
+
 		"data" : {
 			"giorno" : 21,
 			"mese" : 4,
 			"anno" : 2026
 		},
-		"autore" : "Sofia Ribeiro Marques",
+{
+		"autore" : "Djordja Krsteva",
 		"tags" : [
-			"moon",
-			"newspapers",
-			"comparison"
+			"exoplanets",
+			"NASA70",
+			"educational"
 		]
 	}
-
+}
 ]
