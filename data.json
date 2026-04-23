@@ -139,7 +139,7 @@
 	},
 	{
 		"titolo" : "NEO Protocol",
-		"descrizione" : "Questo progetto esplora il Sistema Solare partendo da una criticità nella sua rappresentazione visiva, spesso poco accurata nel comunicare le reali proporzioni tra dimensioni dei pianeti e distanze nello spazio. Per superare questo limite, il sistema viene scomposto in elementi fondamentali come dimensioni, distanze e movimenti, permettendo una lettura più chiara e comprensibile. Il risultato è una visualizzazione interattiva che traduce dati scientifici in un’esperienza visiva immediata, rendendo percepibili proporzioni normalmente astratte e restituendo in modo efficace la reale struttura del Sistema Solare.",
+		"descrizione" : "...",
 		"immagine" : "solarscale.jpg",
 		"url": "https://github.com/melissabroggini/Media-Interactions",
 		"data" : {
@@ -154,7 +154,7 @@
 			"3D simulator",
 			"Asteroids",
 			"Real Life Data",
-			"planets"
+			"Radar"
 		]
 	}
 ]
