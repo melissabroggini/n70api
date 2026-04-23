@@ -139,8 +139,8 @@
 	},
 	{
 		"titolo" : "NEO Protocol",
-		"descrizione" : "...",
-		"immagine" : "solarscale.jpg",
+		"descrizione": "Explore the cosmic neighbourhood through an interactive 3D simulation that tracks real-time NASA data to monitor asteroids around the Earth.",
+		"immagine" : "NEO_Protocol.jpg",
 		"url": "https://github.com/melissabroggini/Media-Interactions",
 		"data" : {
 			"giorno" : 23,
