@@ -45,7 +45,7 @@
 			"discovery",
 			"robot",
 			"aerospace",
-			"planetary"
+			"planet"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 		},
 		"autore": "Djordja Krsteva",
 		"tags": [
-			"planets",
+			"planet",
 			"exoplanets",
 			"extreme words",
 			"nasa archive",
@@ -191,7 +191,7 @@
 		},
 		"autore": "Luca Mazzola",
 		"tags": [
-			"planets",
+			"planet",
 			"3d",
 			"space",
 			"educational",
@@ -245,7 +245,7 @@
 			"science",
 			"neo",
 			"near earth object",
-			"3d simulator",
+			"3d",
 			"asteroids",
 			"real life data",
 			"radar"
@@ -305,9 +305,9 @@
 		},
 		"autore" : "Laura Pantani",
 		"tags" : [
-			"satelliti",
-			"immagini",
-			"spazio"
+			"satellites",
+			"images",
+			"space"
 			
 		]
 	},
@@ -323,7 +323,7 @@
 		},
 		"autore" : "Davide Barattini",
 		"tags" : [
-			"Spacesuit"
+			"spacesuit"
 			
 		]
 	}
