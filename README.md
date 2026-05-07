@@ -26,9 +26,6 @@ TAG MACRO:
 ### Immagini:
 - "nomeprogetto_1.jpg"
 - "nomeprogetto_2.jpg"
-<br>
 Larghezza massima 1920px
-
-
-
+<br>
 [https://ixd-supsi.github.io/n70api/data.json](https://ixd-supsi.github.io/n70api/data.json)
