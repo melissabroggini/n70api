@@ -27,7 +27,7 @@
 			"perseverancerover_1.jpg",
 			"perseverancerover_2.jpg"
 		],
-		"url": "https://naheleee.github.io/Progetto_1_PerseveranceRover/",
+		"url": "https://naheleee.github.io/NaheleBelli_IXD_2026/Progetto1_PerseveranceRover/index.html",
 		"data": {
 			"giorno": 21,
 			"mese": 4,
@@ -46,7 +46,7 @@
 			"discovery",
 			"robot",
 			"aerospace",
-			"planet"
+			"planetary"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 		},
 		"autore": "Djordja Krsteva",
 		"tags": [
-			"planet",
+			"planets",
 			"exoplanets",
 			"extreme words",
 			"nasa archive",
@@ -203,7 +203,7 @@
 		},
 		"autore": "Luca Mazzola",
 		"tags": [
-			"planet",
+			"planets",
 			"3d",
 			"space",
 			"educational",
@@ -258,7 +258,7 @@
 			"science",
 			"neo",
 			"near earth object",
-			"3d",
+			"3d simulator",
 			"asteroids",
 			"real life data",
 			"radar"
@@ -297,28 +297,9 @@
 			"mese": 4,
 			"anno": 2026
 		},
-		"autore" : "Laura Pantani",
-		"tags" : [
-			"satellites",
-			"images",
-			"space"
-			
-		]
-	},
-	{
-		"titolo" : "Spacesuit evolution",
-		"descrizione" : "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
-		"immagine" : "Perseverance_rover.jpg",
-		"url" : "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
-		"data" : {
-			"giorno" : 21,
-			"mese" : 4,
-			"anno" : 2026
-		},
-		"autore" : "Davide Barattini",
-		"tags" : [
-			"spacesuit"
-			
+		"autore": "Davide Barattini",
+		"tags": [
+			"Spacesuit"
 		]
 	}
 ]
