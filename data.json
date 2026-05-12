@@ -17,6 +17,7 @@
 			"game",
 			"historical-archives",
 			"apollo-program",
+			"apollo",
 			"2D"
 		]
 	},
@@ -27,7 +28,7 @@
 			"perseverancerover_1.jpg",
 			"perseverancerover_2.jpg"
 		],
-		"url": "https://naheleee.github.io/NaheleBelli_IXD_2026/Progetto1_PerseveranceRover/index.html",
+		"url": "https://naheleee.github.io/Progetto_1_PerseveranceRover/",
 		"data": {
 			"giorno": 21,
 			"mese": 4,
@@ -46,7 +47,7 @@
 			"discovery",
 			"robot",
 			"aerospace",
-			"planetary"
+			"planet"
 		]
 	},
 	{
@@ -86,7 +87,7 @@
 		},
 		"autore": "Djordja Krsteva",
 		"tags": [
-			"planets",
+			"planet",
 			"exoplanets",
 			"extreme words",
 			"nasa archive",
@@ -111,7 +112,7 @@
 		"tags": [
 			"archive",
 			"moon",
-			"apollo11",
+			"apollo",
 			"media",
 			"frontpage",
 			"comparison"
@@ -155,15 +156,15 @@
 		},
 		"autore": "Daniele Falcone",
 		"tags": [
-			"3D",
-			"Apollo",
-			"History",
-			"Space",
-			"Archive",
-			"Moon",
-			"Panoramic",
-			"Missions",
-			"Images"
+			"3d",
+			"apollo",
+			"history",
+			"space",
+			"archive",
+			"moon",
+			"panoramic",
+			"missions",
+			"images"
 		]
 	},
 	{
@@ -203,7 +204,7 @@
 		},
 		"autore": "Luca Mazzola",
 		"tags": [
-			"planets",
+			"planet",
 			"3d",
 			"space",
 			"educational",
@@ -258,7 +259,7 @@
 			"science",
 			"neo",
 			"near earth object",
-			"3d simulator",
+			"3d",
 			"asteroids",
 			"real life data",
 			"radar"
@@ -290,7 +291,10 @@
 	{
 		"titolo": "Spacesuit evolution",
 		"descrizione": "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
-		"immagine": "Perseverance_rover.jpg",
+		"immagine": [
+			"..._1.jpg",
+			"..._2.jpg"
+		],
 		"url": "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
 		"data": {
 			"giorno": 21,
@@ -299,7 +303,7 @@
 		},
 		"autore": "Davide Barattini",
 		"tags": [
-			"Spacesuit"
+			"spacesuit"
 		]
 	}
 ]
